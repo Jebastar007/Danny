@@ -1,0 +1,166 @@
+body{
+    margin: 0;
+    text-align: center  ;
+    font-family: 'Merriweather', serif;
+    
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #66BFBF;
+    font-weight: normal ;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+
+
+.Top-Container{
+    background-color:#a6a6a4;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    background-color: #e8e8e8;
+    
+}
+
+
+.bottom-container{
+    background-color: #a6a6a4;
+    margin :auto;
+    padding: 50px 0 20px;
+    line-height: 2;
+    
+   
+}
+
+
+h1{
+    font-family: 'Sacramento', cursive;
+    color: #625261;
+    font-size:3.625rem;
+}
+    
+
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+
+}
+
+.intro{
+    font-family: 'Merriweather', serif;
+    color: #625261;
+}
+
+.webdev-img{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.wordpress-img{
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+}
+
+.btn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+    top:1px;
+    bottom: 5px;
+}
+
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1
+    
+
+}
+
+hr{
+    border: dotted #5d6363 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+.contact-me{
+    padding-bottom: 50px;
+}
+
+.Copy-color{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+a{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+}
+
+.profile{
+    padding-top: 50px;
+}
+
+.jeba{
+    font-weight: bolder;
+}
